@@ -1,1 +1,1 @@
-[Redis doc](https://redis.io/topics/data-types-intro)
+[Redis documentation](https://redis.io/topics/data-types-intro)
