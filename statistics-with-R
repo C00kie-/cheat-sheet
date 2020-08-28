@@ -1,0 +1,13 @@
+https://rstudio-education.github.io/hopr/starting.html
+
+download and install last release  of R from the official website :  https://cran.r-project.org/
+
+there a links for precompiled binary versions, available for Windows, Mac and Linux.
+
+Then:
+
+$R
+runs the R interpreter in your terminal 
+
+If you need a graphic interface, dl Rstudio https://rstudio.com/products/rstudio/download/
+
