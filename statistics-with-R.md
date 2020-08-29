@@ -18,3 +18,15 @@ runs the R interpreter in your terminal
 
 If you need a graphic interface, dl Rstudio https://rstudio.com/products/rstudio/download/
 
+### vocabulary:
+http://vita.had.co.nz/papers/layered-grammar.pdf
+
+stat : statistical transformation
+
+plot : 
+
+aesthetic mapping: 
+
+scale:  
+
+geom:  geometric objects 
