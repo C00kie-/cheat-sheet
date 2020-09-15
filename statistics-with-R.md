@@ -7,11 +7,25 @@ R and data sciences: https://r4ds.had.co.nz/
 
 https://rstudio-education.github.io/hopr/starting.html
 
+### Download and installation 
+
 download and install last release  of R from the official website :  https://cran.r-project.org/
 
 there a links for precompiled binary versions, available for Windows, Mac and Linux.
 
-Then:
+As Rstudio for Ubuntu isn't available, download the one for Ubuntu18 Jessie. 
+
+    dpkg -i rstudio-1.3.1073-amd64.deb
+
+You might need to run another command to fix dependancies issues.
+
+    sudo apt --fix-broken install
+    
+### Launch R interpreter, run Rstudio
+
+Start Rstudio from the launchpad of Ubuntu
+
+or/and
 
 $R
 runs the R interpreter in your terminal 
