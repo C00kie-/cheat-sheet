@@ -7,7 +7,7 @@ R and data sciences: https://r4ds.had.co.nz/
 
 https://rstudio-education.github.io/hopr/starting.html
 
-### Download and installation 
+### Download and installation (Ubuntu 20)
 
 download and install last release  of R from the official website :  https://cran.r-project.org/
 
