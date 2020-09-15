@@ -11,7 +11,13 @@ https://rstudio-education.github.io/hopr/starting.html
 
 download and install last release  of R from the official website :  https://cran.r-project.org/
 
-there a links for precompiled binary versions, available for Windows, Mac and Linux.
+There is a apt for it:
+        
+    sudo apt install r-base
+
+there also a links for precompiled binary versions, available for Windows, Mac and Linux.
+
+*Rstudio*
 
 As Rstudio for Ubuntu isn't available, download the one for Ubuntu18 Jessie. 
 
