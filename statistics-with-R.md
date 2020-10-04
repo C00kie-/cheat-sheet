@@ -76,14 +76,30 @@ to keep in mind : Variable = (element1, element2, element2, element3,...)  it's 
        > smp.c <-read.csv2[file path] 
        # smp here is the file in which I lead a set of data with "<-" and the .c method and read from a file.
        
+So with our data:
+       > smp.c <-read.csv2("data/smp1.csv")
+               
 To check the data integrity : 
 
         > str(smp.c)
+ ~~~R
+ 'data.frame':	799 obs. of  9 variables:
+ $ age      : int  31 49 50 47 23 34 24 52 42 45 ...
+ $ prof     : Factor w/ 8 levels "agriculteur",..: 3 NA 7 6 8 6 3 2 6 6 ...
+ $ dep.cons : int  0 0 0 0 1 0 1 0 1 0 ...
+ $ scz.cons : int  0 0 0 0 0 0 0 0 0 0 ...
+ $ grav.cons: int  1 2 2 1 2 1 5 1 5 5 ...
+ $ n.enfant : int  2 7 2 0 1 3 5 2 1 2 ...
+ $ rs       : int  2 2 2 2 2 1 3 2 3 2 ...
+ $ ed       : int  1 2 3 2 2 2 3 2 3 2 ...
+ $ dr       : int  1 1 2 2 2 1 2 2 1 2 ...
+ ~~~
         
 ## Visualizations 
 
         > barplot(table(smp.c$prof))
         
+![img](./r-data/barplot.png)        
 
 
 ### vocabulary:
