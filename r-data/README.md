@@ -6,8 +6,12 @@ All credits to Christophe Lalanne and Bruno Falissard for the initial tutorial (
 
 **sets:**
 
-- smp1.csv
+- smp1.csv "Santé mentale en prison"
 - alcool.csv
 - outils_hdrs.csv
+
+**Description**
+
+- [Santé Mentale en prison set](./Pr_sentation_variables__tude_SMP_MOOC_R.pdf)
 
 
