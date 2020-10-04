@@ -2,15 +2,17 @@
 
 **Credits:** notes from the course [Introduction à la statistique avec R, Paris Saclay](https://www.fun-mooc.fr/courses/course-v1:ParisSaclay+71007+session14/about)
 
-Review some notions: https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data 
+**Statistics beginners course**
+- Review some notions: https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data 
 
-Recommended book : https://rstudio-education.github.io/hopr/preface.html
-R and data sciences: https://r4ds.had.co.nz/
+**Books**
+- RStudio : https://rstudio-education.github.io/hopr/starting.html
+- R and data sciences: https://r4ds.had.co.nz/
 
-https://rstudio-education.github.io/hopr/starting.html
+**Data**
+- For this tutorial [here](./r-data/README.md)
 
-data for this tutorial [here](./r-data/README.md)
-
+**Fancy**
 R Markdown to produce beautiful reports: https://shiny.rstudio.com/articles/rmarkdown.html
 
 
