@@ -11,6 +11,8 @@ https://rstudio-education.github.io/hopr/starting.html
 
 data for this tutorial [here](./r-data/README.md)
 
+R Markdown to produce beautiful reports: https://shiny.rstudio.com/articles/rmarkdown.html
+
 
 ### Download and installation (Ubuntu 20)
 
