@@ -69,7 +69,7 @@ to keep in mind : Variable = (element1, element2, element2, element3,...)  it's 
 ### Load data 
 
        > smp.c <-read.csv2[file path] 
-       # smp here is the variable in which I lead a set of data with "<-" and the .c method
+       # smp here is the file in which I lead a set of data with "<-" and the .c method and read from a file.
        
 To check the data integrity : 
 
