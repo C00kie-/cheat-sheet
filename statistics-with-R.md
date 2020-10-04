@@ -56,8 +56,11 @@ First install packages you'll need to draw plots:
 
 - You call the help menu by running the instruction **help()**. 
 
+### variables
+
 - variables names are **Case-senSitiVe** 
 - Missing value is encoded such as **NA**
+- mode() display the variable type *numeric* or *character* and lenght() the number of item in the variable
 
 
 
