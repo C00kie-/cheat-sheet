@@ -1,5 +1,7 @@
 ## Statistics with R
 
+*NOTE:* same tutorial as in the repository [ORCRI](https://github.com/C00kie-/ORCRI) -->(Online Ressources for Crime Reporting and Investigation).
+
 **Credits:** notes from the course [Introduction à la statistique avec R, Paris Saclay](https://www.fun-mooc.fr/courses/course-v1:ParisSaclay+71007+session14/about)
 
 **Statistics beginners course**
@@ -127,20 +129,6 @@ The same thing as table in the console:
 
         > hist(smp.c$age)
 ![img](./r-data/hist.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
