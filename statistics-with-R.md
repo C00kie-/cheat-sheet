@@ -9,6 +9,9 @@ R and data sciences: https://r4ds.had.co.nz/
 
 https://rstudio-education.github.io/hopr/starting.html
 
+data for this tutorial [here](./r-data/README.md)
+
+
 ### Download and installation (Ubuntu 20)
 
 download and install last release  of R from the official website :  https://cran.r-project.org/
@@ -68,12 +71,20 @@ to keep in mind : Variable = (element1, element2, element2, element3,...)  it's 
 
 ### Load data 
 
+**tips:** Cat your file before to see what is the separator used in your data set. For example with a .csv file a "," or a ";" as separator differs the input syntax: read.csv for "," and read.csv2 for ";" 
+
        > smp.c <-read.csv2[file path] 
        # smp here is the file in which I lead a set of data with "<-" and the .c method and read from a file.
        
 To check the data integrity : 
 
         > str(smp.c)
+        
+## Visualizations 
+
+        > barplot(table(smp.c$prof))
+        
+
 
 ### vocabulary:
 http://vita.had.co.nz/papers/layered-grammar.pdf
