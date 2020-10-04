@@ -52,6 +52,11 @@ First install packages you'll need to draw plots:
 - In addition to the visual interface, you can launch instructions directly in the R interpretor (the **console**) and see the output (crucial for errors)
 - Graphs are generated in another window.
 - **R scripts** have the extention **.r**
+- you hit a script by running the instruction source()
+
+- You call the help menu by running the instruction **help()**. 
+
+
 
 
 
