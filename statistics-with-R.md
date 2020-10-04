@@ -66,6 +66,15 @@ First install packages you'll need to draw plots:
 to keep in mind : Variable = (element1, element2, element2, element3,...)  it's like **supervariable= []** and a lot of things inthere.
 
 
+### Load data 
+
+       > smp.c <-read.csv2[file path] 
+       # smp here is the variable in which I lead a set of data with "<-" and the .c method
+       
+To check the data integrity : 
+
+        > str(smp.c)
+
 ### vocabulary:
 http://vita.had.co.nz/papers/layered-grammar.pdf
 
