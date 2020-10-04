@@ -1,5 +1,7 @@
 ## Statistics with R
 
+**Credits:** notes from the course [Introduction à la statistique avec R, Paris Saclay](https://www.fun-mooc.fr/courses/course-v1:ParisSaclay+71007+session14/about)
+
 Review some notions: https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data 
 
 Recommended book : https://rstudio-education.github.io/hopr/preface.html
@@ -37,6 +39,20 @@ $R
 runs the R interpreter in your terminal 
 
 If you need a graphic interface, dl Rstudio https://rstudio.com/products/rstudio/download/
+
+
+## Run RStudio
+
+First install packages you'll need to draw plots: 
+
+        Tools -> Install Packages... ->  and select package you want to install in the dialog box; here "gplots"
+       
+
+
+
+
+
+
 
 ### vocabulary:
 http://vita.had.co.nz/papers/layered-grammar.pdf
