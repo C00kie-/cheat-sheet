@@ -97,6 +97,7 @@ To check the data integrity :
         
 ## Visualizations 
 
+### barplot
         > barplot(table(smp.c$prof))
         
 ![img](./r-data/barplot.png)        
@@ -111,7 +112,32 @@ The same thing as table in the console:
                222 
  ~~~
  
+ ### pie
  
+        > pie(table(smp.c$prof))
+
+![img](./r-data/pie.png)
+
+### histogram
+
+        > hist(smp.c$age)
+![img](./r-data/hist.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### vocabulary:
 http://vita.had.co.nz/papers/layered-grammar.pdf
