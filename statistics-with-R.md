@@ -101,7 +101,7 @@ To check the data integrity :
         
 ![img](./r-data/barplot.png)        
 
-To see data as table in the console:
+The same thing as table in the console:
         
         > table(smp.c$prof)
  ~~~R
