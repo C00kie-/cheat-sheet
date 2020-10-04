@@ -18,13 +18,14 @@
 
 ### Download and installation (Ubuntu 20)
 
-download and install last release  of R from the official website :  https://cran.r-project.org/
+Download and install the last release of R from the official website :  https://cran.r-project.org/
 
 There is a apt for it:
         
     sudo apt install r-base
 
-there also a links for precompiled binary versions, available for Windows, Mac and Linux.
+There also a links for precompiled binary versions, available for Windows, Mac and Linux.
+
 
 *Rstudio*
 
