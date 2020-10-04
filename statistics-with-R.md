@@ -13,7 +13,7 @@
 - For this tutorial [here](./r-data/README.md)
 
 **Fancy**
-R Markdown to produce beautiful reports: https://shiny.rstudio.com/articles/rmarkdown.html
+- R Markdown to produce beautiful reports: https://shiny.rstudio.com/articles/rmarkdown.html
 
 
 ### Download and installation (Ubuntu 20)
