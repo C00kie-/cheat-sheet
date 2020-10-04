@@ -11,6 +11,7 @@ All credits to Christophe Lalanne and Bruno Falissard for the initial tutorial (
 - outils_hdrs.csv
 
 **Description**
-[Santé Mentale en prison set](./Pr_sentation_variables__tude_SMP_MOOC_R.pdf)
+
+- [Santé Mentale en prison set](./Pr_sentation_variables__tude_SMP_MOOC_R.pdf)
 
 
