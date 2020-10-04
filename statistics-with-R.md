@@ -142,12 +142,3 @@ The same thing as table in the console:
 ### vocabulary:
 http://vita.had.co.nz/papers/layered-grammar.pdf
 
-stat : statistical transformation
-
-plot : 
-
-aesthetic mapping: 
-
-scale:  
-
-geom:  geometric objects 
