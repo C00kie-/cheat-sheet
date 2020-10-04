@@ -101,6 +101,17 @@ To check the data integrity :
         
 ![img](./r-data/barplot.png)        
 
+To see data as table in the console:
+        
+        > table(smp.c$prof)
+ ~~~R
+      agriculteur            artisan              autre              cadre            employe            ouvrier prof.intermediaire 
+                 6                 90                 31                 24                135                227                 58 
+       sans emploi 
+               222 
+ ~~~
+ 
+ 
 
 ### vocabulary:
 http://vita.had.co.nz/papers/layered-grammar.pdf
