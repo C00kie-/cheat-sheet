@@ -63,6 +63,7 @@ First install packages you'll need to draw plots:
 - mode() display the variable type *numeric* or *character* and lenght() the number of item in the variable
 - factor() and levels() are helps to qualify a variable: **factor()** for what qualitative value of the variable, **labels=** for labelling the variable
 
+to keep in mind : Variable = (element1, element2, element2, element3,...)  it's like **supervariable= []** and a lot of things inthere.
 
 
 ### vocabulary:
