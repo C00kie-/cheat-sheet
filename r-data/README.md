@@ -4,7 +4,7 @@ In this data folder you can find data set used as example in the tutorial for St
 
 All credits to Christophe Lalanne and Bruno Falissard for the initial tutorial (cf refs in the tutorial file)
 
-** sets:**
+**sets:**
 
 - smp1.csv
 - alcool.csv
