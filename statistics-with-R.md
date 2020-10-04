@@ -29,7 +29,7 @@ There also a links for precompiled binary versions, available for Windows, Mac a
 
 *Rstudio*
 
-As Rstudio for Ubuntu isn't available, download the one for Ubuntu18 Jessie. 
+As Rstudio for Ubuntu 20 isn't available, download the one for Ubuntu18 Jessie. 
 
     dpkg -i rstudio-1.3.1073-amd64.deb
 
