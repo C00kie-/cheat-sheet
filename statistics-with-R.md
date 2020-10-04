@@ -47,6 +47,11 @@ First install packages you'll need to draw plots:
 
         Tools -> Install Packages... ->  and select package you want to install in the dialog box; here "gplots"
        
+### starting keys
+
+- In addition to the visual interface, you can launch instructions directly in the R interpretor (the **console**) and see the output (crucial for errors)
+- Graphs are generated in another window.
+- **R scripts** have the extention **.r**
 
 
 
